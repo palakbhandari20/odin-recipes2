@@ -1,3 +1,27 @@
 h1{
-    color: blue;
+    color: purple;
+    font-size: 100px;
+    margin:auto;
+    background-color: lightblue;
+    text-align: center;
+}
+
+ul{
+    color: violet;
+    font-size: 70px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+div{
+    font-size: 80px;
+    margin: 10px;
+    background-color: aliceblue;
+    color: yellowgreen;
+    text-align: center;
+}
+ul p{
+    color: black;
+    font-size: 50px;
 }
